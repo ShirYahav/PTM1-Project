@@ -1,7 +1,5 @@
 package test;
 
-import java.nio.ByteBuffer;
-import java.nio.charset.StandardCharsets;
 import java.util.Date;
 
 public final class Message {
